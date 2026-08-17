@@ -1,183 +1,179 @@
-
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,45:E100FF,100:00E5FF&height=230&section=header&text=Karanveer%20Singh&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20NLP%20%E2%80%A2%20Generative%20AI&descAlignY=56&descSize=19&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=E100FF&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+Building+Intelligent+Systems;%F0%9F%A7%A0+Exploring+NLP+%26+LLMs;%F0%9F%9A%80+Turning+Ideas+Into+AI+Projects;%E2%9C%A8+Learn+%E2%86%92+Build+%E2%86%92+Improve" />
+# Hi 👋, I'm Karanveer Singh
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=2F81F7&center=true&vCenter=true&width=900&height=60&lines=AI+%E2%80%A2+Machine+Learning+%E2%80%A2+NLP+%E2%80%A2+Generative+AI;Transformers+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+LoRA;Learn+%E2%80%A2+Build+%E2%80%A2+Experiment+%E2%80%A2+Improve;Building+Practical+AI+Projects+%F0%9F%9A%80"
+/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img
+src="https://komarev.com/ghpvc/?username=Karanveer05&label=Profile%20Views&color=0e75b6&style=flat"
+/>
 
 </div>
 
+---
 
-<!-- ===================== SOCIALS ===================== -->
+## 👨‍💻 About Me
+
+<img align="right" width="115" src="./Karanveer%20Singh.PNG" />
+
+- 🎓 B.Tech student exploring **Artificial Intelligence & Machine Learning**
+- 🤖 Building projects in **Machine Learning, NLP and Generative AI**
+- 🧠 Working with **Transformers, DistilBERT, LoRA and Sentence Embeddings**
+- 🚀 Interested in building practical AI-powered applications
+- ✍️ Sharing my learning through technical articles on **Medium**
+- 📚 Currently exploring **LLMs, RAG and Advanced NLP**
+
+<br>
+
+---
+
+## 💻 Tech Stack
+
+### 🐍 Programming & Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+### 📊 Data Science & Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2563EB?style=flat)
+![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-0891B2?style=flat)
+
+### 🧠 NLP & Generative AI
+
+![NLP](https://img.shields.io/badge/NLP-0284C7?style=flat)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-4F46E5?style=flat)
+![DistilBERT](https://img.shields.io/badge/DistilBERT-2563EB?style=flat)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-0369A1?style=flat)
+![LoRA](https://img.shields.io/badge/LoRA-7C3AED?style=flat)
+![LLMs](https://img.shields.io/badge/LLMs-4338CA?style=flat)
+![RAG](https://img.shields.io/badge/RAG-0891B2?style=flat)
+
+### 🌐 Application Development
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+- 🎬 **[Movie Recommendation System](YOUR_MOVIE_REPOSITORY_LINK)**  
+  `Sentence Transformers` `Cosine Similarity` `NLP` `Streamlit`
+
+---
+
+## 🎯 Current Focus
+
+<p align="center">
+
+![Generative AI](https://img.shields.io/badge/🤖%20Generative%20AI-2563EB?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/🧠%20LLMs-4F46E5?style=for-the-badge)
+![RAG](https://img.shields.io/badge/🔗%20RAG-0891B2?style=for-the-badge)
+![NLP](https://img.shields.io/badge/💬%20NLP-0284C7?style=for-the-badge)
+
+</p>
+
+---
+
+## 💡 AI Fact of the Day
 
 <div align="center">
+
+<img
+src="https://img.shields.io/badge/AI%20FACT-LIVE!-16A34A?style=flat"
+/>
+
+<br><br>
+
+> 🧠 **Transformers use self-attention to understand relationships between words and capture context across a sequence.**
+
+</div>
+
+---
 
 ## 🌐 Connect With Me
 
 <table width="100%">
-
 <tr>
 
-<td width="50%" align="center" valign="middle" height="120">
+<!-- LINKEDIN -->
+
+<td width="50%" align="center" valign="middle">
+
+<br>
 
 <a href="https://www.linkedin.com/in/karanveer-singh-926a0b287">
-<img src="./assets/profile.png"
-     width="90"
-     height="90"
-     alt="Karanveer Singh"/>
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+width="75"
+height="75"
+alt="LinkedIn"
+/>
 </a>
 
-</td>
+<br><br>
 
-
-<td width="50%" align="center" valign="middle" height="120">
-
-<a href="https://medium.com/@karanveersingh05">
-<img src="https://cdn.simpleicons.org/medium/FFFFFF"
-     width="90"
-     height="90"
-     alt="Medium"/>
-</a>
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="50%" align="center" valign="middle">
+<h3>Karanveer Singh</h3>
 
 <a href="https://www.linkedin.com/in/karanveer-singh-926a0b287">
-<img src="https://img.shields.io/badge/LinkedIn-Karanveer%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</td>
-
-
-<td width="50%" align="center" valign="middle">
-
-<a href="https://medium.com/@karanveersingh05">
-<img src="https://img.shields.io/badge/Medium-Karanveer%20Singh-111111?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="50%" align="center" valign="middle">
-
 <code>karanveer-singh-926a0b287</code>
+</a>
+
+<br><br>
 
 </td>
 
 
+<!-- MEDIUM -->
+
 <td width="50%" align="center" valign="middle">
 
+<br>
+
+<a href="https://medium.com/@karanveersingh05">
+<img
+src="https://cdn.simpleicons.org/medium/FFFFFF"
+width="75"
+height="75"
+alt="Medium"
+/>
+</a>
+
+<br><br>
+
+<h3>Karanveer Singh</h3>
+
+<a href="https://medium.com/@karanveersingh05">
 <code>@karanveersingh05</code>
+</a>
+
+<br><br>
 
 </td>
 
 </tr>
-
 </table>
 
-</div>
 
 <br>
 
-<!-- ===================== GRADIENT LINE ===================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,50:E100FF,100:00E5FF&height=3"/>
-
-
-<!-- ===================== TECH STACK ===================== -->
+<!-- END QUOTE -->
 
 <div align="center">
 
-## ⚡ Tech Universe
-
-<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode&theme=dark" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Transformers-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-00B4D8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-E100FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LoRA-FF006E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<h2>🚀 Learn • Build • Experiment • Improve</h2>
 
 </div>
 
 <br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:4361EE,100:E100FF&height=3"/>
-
-
-<!-- ===================== PROJECTS ===================== -->
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-### 🎬 [Movie Recommendation System](YOUR_MOVIE_REPOSITORY_LINK)
-
-`Sentence Transformers` • `NLP` • `Cosine Similarity` • `Streamlit`
-
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E100FF,50:7209B7,100:00E5FF&height=3"/>
-
-
-<!-- ===================== CURRENT FOCUS ===================== -->
-
-<div align="center">
-
-## 🧠 Current Focus
-
-<img src="https://img.shields.io/badge/Generative_AI-6A11CB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-E100FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-00B4D8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Transformers-7209B7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PEFT-FF006E?style=for-the-badge"/>
-
-</div>
-
-
-<!-- ===================== QUOTE ===================== -->
-
-<br>
-
-<div align="center">
-
-### ⚡ `Learn → Build → Experiment → Improve`
-
-<br>
-
-[💼](https://www.linkedin.com/in/karanveer-singh-926a0b287)
-&nbsp;&nbsp;&nbsp;
-[✍️](https://medium.com/@karanveersingh05)
-
-</div>
-
-
-<!-- ===================== FOOTER ===================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,45:E100FF,100:6A11CB&height=130&section=footer"/>
-```
