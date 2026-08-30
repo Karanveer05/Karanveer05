@@ -67,10 +67,61 @@ src="https://komarev.com/ghpvc/?username=Karanveer05&label=Profile%20Views&color
 
 ## 📌 Featured Projects
 
-- 🎬 **[Movie Recommendation System](YOUR_MOVIE_REPOSITORY_LINK)**  
-  `Sentence Transformers` `Cosine Similarity` `NLP` `Streamlit`
+<table>
+<tr>
 
----
+<td width="50%" valign="top">
+
+### 🤖 [AI Developer Assistant](https://github.com/Karanveer05/AI-Developer-Assistant-CLI)
+
+A practical **LLM-powered developer assistant** built using Python, Streamlit, and the Google Gemini API.
+
+**Key Features**
+- Question answering
+- Code explanation
+- Code generation
+- Text summarization
+- Conversation memory
+- Model selection
+- API retry handling
+- Application logging
+
+`Python` `Streamlit` `Gemini API` `LLM` `JSONL` `Logging`
+
+<br>
+
+<a href="https://github.com/Karanveer05/AI-Developer-Assistant-CLI">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎬 [Movie Recommendation System](YOUR_MOVIE_REPOSITORY_LINK)
+
+A movie recommendation application that uses **NLP and semantic similarity** to recommend relevant movies based on user input and movie information.
+
+**Key Features**
+- Movie recommendations
+- Semantic similarity
+- Sentence embeddings
+- NLP-based matching
+- Cosine similarity
+- Streamlit interface
+
+`Python` `NLP` `Sentence Transformers` `Cosine Similarity` `Streamlit`
+
+<br>
+
+<a href="YOUR_MOVIE_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ## 🎯 Current Focus
 
