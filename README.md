@@ -98,7 +98,7 @@ A practical **LLM-powered developer assistant** built using Python, Streamlit, a
 
 <td width="50%" valign="top">
 
-### 🎬 [Movie Recommendation System](YOUR_MOVIE_REPOSITORY_LINK)
+### 🎬 [Movie Recommendation System](https://github.com/Karanveer05/MOVIE_RECOMMENDATION_Project.git)
 
 A movie recommendation application that uses **NLP and semantic similarity** to recommend relevant movies based on user input and movie information.
 
