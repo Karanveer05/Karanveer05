@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:7C3AED&height=200&section=header&text=Karanveer%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Machine%20Learning%20Developer&descAlignY=56&descSize=18" />
+<img width="100%" src="./assets/header.svg" alt="Karanveer Singh: AI & Machine Learning Developer" />
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Karanveer05&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile views" />
+<img src="https://hits.sh/github.com/Karanveer05.svg?style=for-the-badge&label=Profile%20Views&color=2F81F7" alt="Profile views" />
 <a href="https://www.linkedin.com/in/karanveer-singh-926a0b287"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://medium.com/@karanveersingh05"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 <img src="https://img.shields.io/badge/📍%20Mohali,%20India-7C3AED?style=for-the-badge" alt="Location" />
@@ -227,7 +227,7 @@ Recommends movies using **NLP and semantic similarity** on titles, genres and de
 <tr>
 <td align="center" width="220">
 <a href="https://www.linkedin.com/in/karanveer-singh-926a0b287">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="56" height="56" alt="LinkedIn" />
+<img src="./assets/linkedin.svg" width="56" height="56" alt="LinkedIn" />
 </a>
 <br><br>
 <b>LinkedIn</b><br>
@@ -258,4 +258,4 @@ Recommends movies using **NLP and semantic similarity** on titles, genres and de
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:7C3AED&height=120&section=footer" />
+<img width="100%" src="./assets/footer.svg" alt="" />
